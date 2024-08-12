@@ -8,8 +8,8 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/NDK1195/base-apparel-coming-soon)
-- Live Site URL: [Live site URL here](https://base-apparel-coming-soon-psi-vert.vercel.app/)
+- Solution URL: [Solution URL here](https://github.com/NDK1195/ping-coming-soon-page)
+- Live Site URL: [Live site URL here](https://ping-coming-soon-page-mauve-eta.vercel.app/)
 
 ### Built with
 
